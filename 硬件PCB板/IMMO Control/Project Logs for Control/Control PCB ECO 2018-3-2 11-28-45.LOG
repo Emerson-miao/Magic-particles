@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=CAN_RX Pin=IC1-61
-Removed Pin From Net: NetName=CAN_TX Pin=IC1-62
-Added Pin To Net: NetName=CAN_RX Pin=IC1-44
-Added Pin To Net: NetName=CAN_TX Pin=IC1-45

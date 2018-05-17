@@ -1,4 +1,0 @@
-Added Component: Designator=Y1(X49S)
-Added Pin To Net: NetName=NetC16_1 Pin=Y1-1
-Added Pin To Net: NetName=NetC15_1 Pin=Y1-2
-Added Member To Class: ClassName=02-MCU Member=Component Y1 25MHz
