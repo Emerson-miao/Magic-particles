@@ -1,0 +1,160 @@
+Added Component: Designator=C15(C0603)
+Added Component: Designator=C16(C0603)
+Added Component: Designator=C17(C0603)
+Added Component: Designator=C18(C0603)
+Added Component: Designator=C20(C0603)
+Added Component: Designator=FB1(R0805)
+Added Component: Designator=R15(R0603)
+Added Component: Designator=R17(R0603)
+Added Component: Designator=R18(R0603)
+Added Component: Designator=R19(R0603)
+Added Component: Designator=R20(R0603)
+Added Component: Designator=R21(R0603)
+Added Component: Designator=R22(R0603)
+Added Component: Designator=R23(R0603)
+Added Component: Designator=R25(R0603)
+Added Component: Designator=R26(R0603)
+Added Component: Designator=R27(R0603)
+Added Component: Designator=R28(R0603)
+Added Component: Designator=R29(R0603)
+Added Component: Designator=R30(R0603)
+Added Component: Designator=R31(R0603)
+Added Component: Designator=R32(R0603)
+Added Component: Designator=RJ1(HR911105A)
+Added Component: Designator=U4(SSOP28762MM)
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=R22-1
+Added Pin To Net: NetName=GND Pin=RJ1-7
+Added Pin To Net: NetName=GND Pin=RJ1-8
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U4-11
+Added Pin To Net: NetName=GND Pin=U4-18
+Added Pin To Net: NetName=GND Pin=U4-21
+Added Pin To Net: NetName=GND Pin=U4-22
+Added Pin To Net: NetName=+3.3V Pin=FB1-2
+Added Pin To Net: NetName=+3.3V Pin=R23-2
+Added Pin To Net: NetName=+3.3V Pin=R27-2
+Added Pin To Net: NetName=+3.3V Pin=R28-2
+Added Pin To Net: NetName=+3.3V Pin=U4-15
+Added Pin To Net: NetName=+3.3V Pin=U4-19
+Added Pin To Net: NetName=+3.3V Pin=U4-20
+Added Pin To Net: NetName=+3.3V Pin=U4-25
+Added Pin To Net: NetName=+3.3V Pin=U4-28
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=LEDMA Pin=R25-2
+Added Pin To Net: NetName=LEDMA Pin=RJ1-9
+Added Net: Name=LEDMA
+Added Pin To Net: NetName=LEDMB Pin=R26-2
+Added Pin To Net: NetName=LEDMB Pin=RJ1-12
+Added Net: Name=LEDMB
+Added Pin To Net: NetName=M1_CS Pin=R20-1
+Added Pin To Net: NetName=M1_CS Pin=R27-1
+Added Net: Name=M1_CS
+Added Pin To Net: NetName=M1_INT Pin=R15-1
+Added Net: Name=M1_INT
+Added Pin To Net: NetName=M1_RST Pin=R21-1
+Added Pin To Net: NetName=M1_RST Pin=R28-1
+Added Net: Name=M1_RST
+Added Pin To Net: NetName=M1_SCK Pin=R19-1
+Added Net: Name=M1_SCK
+Added Pin To Net: NetName=M1_SI Pin=R18-1
+Added Net: Name=M1_SI
+Added Pin To Net: NetName=M1_SO Pin=R17-1
+Added Net: Name=M1_SO
+Added Pin To Net: NetName=NetC15_1 Pin=C15-1
+Added Pin To Net: NetName=NetC15_1 Pin=U4-24
+Added Net: Name=NetC15_1
+Added Pin To Net: NetName=NetC16_1 Pin=C16-1
+Added Pin To Net: NetName=NetC16_1 Pin=U4-23
+Added Net: Name=NetC16_1
+Added Pin To Net: NetName=NetC17_1 Pin=C17-1
+Added Pin To Net: NetName=NetC17_1 Pin=FB1-1
+Added Pin To Net: NetName=NetC17_1 Pin=R29-1
+Added Pin To Net: NetName=NetC17_1 Pin=R30-2
+Added Pin To Net: NetName=NetC17_1 Pin=RJ1-4
+Added Net: Name=NetC17_1
+Added Pin To Net: NetName=NetC18_1 Pin=C18-1
+Added Pin To Net: NetName=NetC18_1 Pin=R31-1
+Added Pin To Net: NetName=NetC18_1 Pin=R32-2
+Added Pin To Net: NetName=NetC18_1 Pin=RJ1-5
+Added Net: Name=NetC18_1
+Added Pin To Net: NetName=NetC20_2 Pin=C20-2
+Added Pin To Net: NetName=NetC20_2 Pin=U4-1
+Added Net: Name=NetC20_2
+Added Pin To Net: NetName=NetR15_2 Pin=R15-2
+Added Pin To Net: NetName=NetR15_2 Pin=R23-1
+Added Pin To Net: NetName=NetR15_2 Pin=U4-4
+Added Net: Name=NetR15_2
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=NetR17_2 Pin=U4-6
+Added Net: Name=NetR17_2
+Added Pin To Net: NetName=NetR18_2 Pin=R18-2
+Added Pin To Net: NetName=NetR18_2 Pin=U4-7
+Added Net: Name=NetR18_2
+Added Pin To Net: NetName=NetR19_2 Pin=R19-2
+Added Pin To Net: NetName=NetR19_2 Pin=U4-8
+Added Net: Name=NetR19_2
+Added Pin To Net: NetName=NetR20_2 Pin=R20-2
+Added Pin To Net: NetName=NetR20_2 Pin=U4-9
+Added Net: Name=NetR20_2
+Added Pin To Net: NetName=NetR21_2 Pin=R21-2
+Added Pin To Net: NetName=NetR21_2 Pin=U4-10
+Added Net: Name=NetR21_2
+Added Pin To Net: NetName=NetR22_2 Pin=R22-2
+Added Pin To Net: NetName=NetR22_2 Pin=U4-14
+Added Net: Name=NetR22_2
+Added Pin To Net: NetName=NetR25_1 Pin=R25-1
+Added Pin To Net: NetName=NetR25_1 Pin=U4-27
+Added Net: Name=NetR25_1
+Added Pin To Net: NetName=NetR26_1 Pin=R26-1
+Added Pin To Net: NetName=NetR26_1 Pin=U4-26
+Added Net: Name=NetR26_1
+Added Pin To Net: NetName=NetRJ1_10 Pin=RJ1-10
+Added Pin To Net: NetName=NetRJ1_10 Pin=RJ1-11
+Added Net: Name=NetRJ1_10
+Added Pin To Net: NetName=TPIN1_N Pin=R32-1
+Added Pin To Net: NetName=TPIN1_N Pin=RJ1-6
+Added Pin To Net: NetName=TPIN1_N Pin=U4-12
+Added Net: Name=TPIN1_N
+Added Pin To Net: NetName=TPIN1_P Pin=R31-2
+Added Pin To Net: NetName=TPIN1_P Pin=RJ1-3
+Added Pin To Net: NetName=TPIN1_P Pin=U4-13
+Added Net: Name=TPIN1_P
+Added Pin To Net: NetName=TPOUT1_N Pin=R30-1
+Added Pin To Net: NetName=TPOUT1_N Pin=RJ1-2
+Added Pin To Net: NetName=TPOUT1_N Pin=U4-16
+Added Net: Name=TPOUT1_N
+Added Pin To Net: NetName=TPOUT1_P Pin=R29-2
+Added Pin To Net: NetName=TPOUT1_P Pin=RJ1-1
+Added Pin To Net: NetName=TPOUT1_P Pin=U4-17
+Added Net: Name=TPOUT1_P
+Added Differential Pair: Name=TPIN1
+Added Differential Pair: Name=TPOUT1
+Added Member To Class: ClassName=02-MCU Member=Component C15 30p,50V,J
+Added Member To Class: ClassName=02-MCU Member=Component C16 30p,50V,J
+Added Member To Class: ClassName=02-MCU Member=Component C17 100n,50V,J
+Added Member To Class: ClassName=02-MCU Member=Component C18 100n,50V,J
+Added Member To Class: ClassName=02-MCU Member=Component C20 10u,50V,J
+Added Member To Class: ClassName=02-MCU Member=Component FB1 10,1/8W,F
+Added Member To Class: ClassName=02-MCU Member=Component R15 1K,1/10W,F
+Added Member To Class: ClassName=02-MCU Member=Component R17 1K,1/10W,F
+Added Member To Class: ClassName=02-MCU Member=Component R18 1K,1/10W,F
+Added Member To Class: ClassName=02-MCU Member=Component R19 1K,1/10W,F
+Added Member To Class: ClassName=02-MCU Member=Component R20 1K,1/10W,F
+Added Member To Class: ClassName=02-MCU Member=Component R21 1K,1/10W,F
+Added Member To Class: ClassName=02-MCU Member=Component R22 4.7K,1/10W,F
+Added Member To Class: ClassName=02-MCU Member=Component R23 10K,1/10W,F
+Added Member To Class: ClassName=02-MCU Member=Component R25 1.5K,1/10W,F
+Added Member To Class: ClassName=02-MCU Member=Component R26 1.5K,1/10W,F
+Added Member To Class: ClassName=02-MCU Member=Component R27 10K,1/10W,F
+Added Member To Class: ClassName=02-MCU Member=Component R28 10K,1/10W,F
+Added Member To Class: ClassName=02-MCU Member=Component R29 50,1/10W,F
+Added Member To Class: ClassName=02-MCU Member=Component R30 50,1/10W,F
+Added Member To Class: ClassName=02-MCU Member=Component R31 50,1/10W,F
+Added Member To Class: ClassName=02-MCU Member=Component R32 50,1/10W,F
+Added Member To Class: ClassName=02-MCU Member=Component RJ1 HR911105A
+Added Member To Class: ClassName=02-MCU Member=Component U4 ENC28J60

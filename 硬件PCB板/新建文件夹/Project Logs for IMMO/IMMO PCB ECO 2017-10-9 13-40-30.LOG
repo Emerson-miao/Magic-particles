@@ -1,0 +1,102 @@
+Added Component: Designator=C2(ED10)
+Added Component: Designator=C3(C0603)
+Added Component: Designator=C4(ED8)
+Added Component: Designator=C5(C0603)
+Added Component: Designator=C9(ED10)
+Added Component: Designator=C10(C0603)
+Added Component: Designator=C11(ED8)
+Added Component: Designator=C12(C0603)
+Added Component: Designator=D1(SMA)
+Added Component: Designator=D2(SMA)
+Added Component: Designator=L1(127)
+Added Component: Designator=L2(127)
+Added Component: Designator=P8(805-3)
+Added Component: Designator=P9(805-4)
+Added Component: Designator=U1(SOT-263-5)
+Added Component: Designator=U3(SOT-263-5)
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=GND Pin=P8-19
+Added Pin To Net: NetName=GND Pin=P8-20
+Added Pin To Net: NetName=GND Pin=P8-21
+Added Pin To Net: NetName=GND Pin=P8-22
+Added Pin To Net: NetName=GND Pin=P8-23
+Added Pin To Net: NetName=GND Pin=P8-24
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=5V Pin=C11-1
+Added Pin To Net: NetName=5V Pin=C12-1
+Added Pin To Net: NetName=5V Pin=L2-2
+Added Pin To Net: NetName=5V Pin=U3-4
+Added Net: Name=5V
+Added Pin To Net: NetName=12V Pin=C4-1
+Added Pin To Net: NetName=12V Pin=C5-1
+Added Pin To Net: NetName=12V Pin=L1-2
+Added Pin To Net: NetName=12V Pin=U1-4
+Added Net: Name=12V
+Added Pin To Net: NetName=24V-OUT Pin=P8-13
+Added Pin To Net: NetName=24V-OUT Pin=P8-14
+Added Pin To Net: NetName=24V-OUT Pin=P8-15
+Added Pin To Net: NetName=24V-OUT Pin=P8-16
+Added Pin To Net: NetName=24V-OUT Pin=P8-17
+Added Pin To Net: NetName=24V-OUT Pin=P8-18
+Added Net: Name=24V-OUT
+Added Pin To Net: NetName=24V Pin=C2-1
+Added Pin To Net: NetName=24V Pin=C3-1
+Added Pin To Net: NetName=24V Pin=C9-1
+Added Pin To Net: NetName=24V Pin=C10-1
+Added Pin To Net: NetName=24V Pin=U1-1
+Added Pin To Net: NetName=24V Pin=U3-1
+Added Net: Name=24V
+Added Pin To Net: NetName=L Pin=P8-5
+Added Pin To Net: NetName=L Pin=P8-6
+Added Pin To Net: NetName=L Pin=P8-7
+Added Pin To Net: NetName=L Pin=P8-8
+Added Net: Name=L
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=C10-2
+Added Pin To Net: NetName=NetC9_2 Pin=C11-2
+Added Pin To Net: NetName=NetC9_2 Pin=C12-2
+Added Pin To Net: NetName=NetC9_2 Pin=D2-1
+Added Pin To Net: NetName=NetC9_2 Pin=U3-3
+Added Pin To Net: NetName=NetC9_2 Pin=U3-3
+Added Pin To Net: NetName=NetC9_2 Pin=U3-5
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=L1-1
+Added Pin To Net: NetName=NetD1_2 Pin=U1-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=L2-1
+Added Pin To Net: NetName=NetD2_2 Pin=U3-2
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=N Pin=P8-1
+Added Pin To Net: NetName=N Pin=P8-2
+Added Pin To Net: NetName=N Pin=P8-3
+Added Pin To Net: NetName=N Pin=P8-4
+Added Net: Name=N
+Added Pin To Net: NetName=PGND Pin=P8-9
+Added Pin To Net: NetName=PGND Pin=P8-10
+Added Pin To Net: NetName=PGND Pin=P8-11
+Added Pin To Net: NetName=PGND Pin=P8-12
+Added Net: Name=PGND
+Added Member To Class: ClassName=02-MCU Member=Component C2 220uF/50V,K-10
+Added Member To Class: ClassName=02-MCU Member=Component C3 100n,50V,J
+Added Member To Class: ClassName=02-MCU Member=Component C4 220uF/35V,K-8
+Added Member To Class: ClassName=02-MCU Member=Component C5 100n,50V,J
+Added Member To Class: ClassName=02-MCU Member=Component C9 220uF/50V,K-10
+Added Member To Class: ClassName=02-MCU Member=Component C10 100n,50V,J
+Added Member To Class: ClassName=02-MCU Member=Component C11 220uF/35V,K-8
+Added Member To Class: ClassName=02-MCU Member=Component C12 100n,50V,J
+Added Member To Class: ClassName=02-MCU Member=Component D1 STK-40V/5A(SS54)
+Added Member To Class: ClassName=02-MCU Member=Component D2 STK-40V/5A(SS54)
+Added Member To Class: ClassName=02-MCU Member=Component L1 Power-33uH/3A
+Added Member To Class: ClassName=02-MCU Member=Component L2 Power-33uH/3A
+Added Member To Class: ClassName=02-MCU Member=Component P8 Header 12X2
+Added Member To Class: ClassName=02-MCU Member=Component P9 Header 4X2
+Added Member To Class: ClassName=02-MCU Member=Component U1 SVR-LM2596S-5.0/4.5-40V
+Added Member To Class: ClassName=02-MCU Member=Component U3 SVR-LM2596S-5.0/4.5-40V
